@@ -3,8 +3,8 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>io.boomerang</groupId>
    <artifactId>lib-scheduling</artifactId>
-   <version>0.0.1</version>
-   <name>lib-jetstream</name>
+   <version>3.0.3</version>
+   <name>Boomerang Lib Scheduling</name>
    <url>https://www.useboomerang.io</url>
    <properties>
       <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
